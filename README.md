@@ -22,8 +22,7 @@ This component serves as a LoRaWAN to WiFi adapter, allowing wireless devices to
 ### MessageRouter
 
 - `relay.js`: JavaScript file defining relay operations. Basically its the main program.
-- `start.sh`: A bash script for starting the relay server.
-- `run.sh`: A bash script for configuring the relay system.
+- `start-relay.sh`: A bash script for configuring and starting the relay system.
 - `drivers` directory: Contains specific Javascript 'drivers' for the radio interfaces on the relay computer.
 
 This part of the project serves as the core message router, managing communication between NRF and LoRaWAN radio networks.
