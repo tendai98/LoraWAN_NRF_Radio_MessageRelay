@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MessageTerminal</string>
+    <string name="send">SEND</string>
+    <string name="link">LINK</string>
+    <string name="clear">CLEAR</string>
+    <string name="your_message">Your Message</string>
+    <string name="message_terminal">Message Terminal</string>
+</resources>
