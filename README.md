@@ -6,6 +6,8 @@
 
 Below is an overview of the project structure and its key components.
 
+![System](img/Message-Relay-Design.png)
+
 ## Project Structure
 
 The project is organized into several directories, each with its own functionality and set of files.
