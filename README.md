@@ -6,7 +6,7 @@
 
 Below is an overview of the project structure and its key components.
 
-![System](img/Message-Relay-Design.png)
+![System](img/Message-Relay.png)
 
 ## Project Structure
 
